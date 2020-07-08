@@ -58,7 +58,7 @@ h2{
 .up{
    
    padding: 5px;
-   width: 900px;
+   max-width: 900px;
    height: 100px;
     border: solid #000;
     border-width: 1 1px;
