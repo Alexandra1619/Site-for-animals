@@ -55,6 +55,13 @@ h2{
 .red {
 	color: #ff0000;
 }
+body{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+	margin-top: 25px;
+   margin-left: 600px;
+}
 .up{
    
    padding: 5px;
@@ -65,6 +72,13 @@ h2{
     margin-top: 25px;
    margin-left: 300px;
    position: relative;
+   background: rgb(236,232,157);
+/* FF3.6-15 */
+background: -moz-linear-gradient(top, rgb(223, 127, 143) 0%, rgb(163, 144, 199) 50%, rgb(114, 185, 178) 100%);
+/* Chrome10-25,Safari5.1-6 */
+background: -webkit-linear-gradient(top, rgba(236,232,157,1) 0%,rgba(94,83,115,1) 50%,rgb(42, 126, 182) 100%);
+/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: linear-gradient(to bottom, rgb(54, 235, 69) 0%,rgba(94,83,115,1) 50%,rgb(100, 151, 228) 100%);
 }
 .doga{
     position: absolute;
