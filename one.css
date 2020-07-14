@@ -67,14 +67,13 @@ h1{
 }
 .up{
    
-   padding: 5px;
-   max-width: 900px;
-   min-width: 900px;
+   padding: 3%;
+  width: 62%;
    height: 100px;
     border: solid #000;
     border-width: 1 1px;
-    margin-top: 25px;
-   margin-left: 300px;
+    margin-top: 3%;
+   margin-left: 20%;
    position: relative;
    background: rgb(236,232,157);
 /* FF3.6-15 */
@@ -91,14 +90,13 @@ background: linear-gradient(to bottom, rgb(54, 235, 69) 0%,rgba(94,83,115,1) 50%
     font-size: 20pt;
 }
 .site{
-	padding: 5px;
-	max-width: 900px;
-	min-width: 900px;
+	padding: 3%;
+	width: 62%;
 	height: 400px;
 	 border: solid #000;
 	 border-width: 1 1px;
-	 margin-top: 25px;
-	margin-left: 300px;
+	 margin-top: 3%;
+	margin-left: 20%;
 	position: relative;
 	background: rgb(236,232,157);
 	font-size: 25pt;
