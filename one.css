@@ -72,9 +72,8 @@ h1{
 .up{
    
    padding: 5px;
-   width: 100%;
-   max-width: 1000px;
-  
+   max-width: 900px;
+   min-width: 900px;
    height: 100px;
     border: solid #000;
     border-width: 1 1px;
@@ -93,8 +92,8 @@ h1{
 }
 .site{
 	padding: 5px;
-	width: 100%;
-   max-width: 1000px;
+	max-width: 900px;
+	min-width: 900px;
 	height: 400px;
 	 border: solid #000;
 	 border-width: 1 1px;
