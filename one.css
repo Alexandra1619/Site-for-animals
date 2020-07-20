@@ -67,7 +67,9 @@ body{
 }
 h1{
 	margin-top: 25px;
-   margin-left: 600px;
+   margin-left: 45%;
+   background-color: rgb(133, 214, 210) ;
+   width: 200px;
 }
 .up{
    
