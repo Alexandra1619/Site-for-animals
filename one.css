@@ -72,13 +72,14 @@ h1{
 .up{
    
    padding: 5px;
-   max-width: 900px;
-   min-width: 900px;
+   width: 1000px;
+   max-width: 90%;
+   min-width: 500px;
    height: 100px;
     border: solid #000;
     border-width: 1 1px;
     margin-top: 25px;
-   margin-left: 500px;
+   margin-left: 20%;
    position: relative;
    background: rgb(133, 214, 210);
    object-fit: fill ;
