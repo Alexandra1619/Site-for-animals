@@ -108,7 +108,7 @@ h1{
 	background: rgb(133, 214, 210);
 	font-size: 25pt;
 	overflow: auto;
-	
+	object-fit: fill ;
 	
 }
 .site::-webkit-scrollbar{ 
